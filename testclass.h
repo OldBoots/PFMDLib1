@@ -11,6 +11,7 @@ class TestClass : public QObject
 public:
     TestClass();
 private:
+
     void test_max();
     void test_min();
 };
